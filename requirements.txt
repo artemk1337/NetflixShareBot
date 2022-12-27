@@ -21,7 +21,7 @@ protobuf==3.8.0rc1
 pycparser==2.19
 python-telegram-bot==12.0.0b1
 ruamel.yaml==0.15.96
-setuptools==41.0.1
+setuptools==65.5.1
 six==1.12.0
 tb-nightly==1.14.0a20190525
 tensorboard==1.13.1
